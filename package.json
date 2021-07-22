@@ -6,7 +6,6 @@
   "license": "ISC",
   "scripts": {
     "dev": "keystone-next",
-    "start": "keystone-next",
     "seed-data": "keystone-next --seed-data"
   },
   "eslintConfig": {
