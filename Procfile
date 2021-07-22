@@ -1,1 +1,1 @@
-dev: "keystone-next"
+web: "keystone-next"
