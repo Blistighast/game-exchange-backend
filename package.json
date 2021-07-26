@@ -5,9 +5,10 @@
   "author": "Brian Guterl",
   "license": "ISC",
   "scripts": {
-    "dev": "keystone-next",
+    "dev": "keystone-next dev",
     "start": "keystone-next start",
     "build": "keystone-next build",
+    "postinstall": "keystone-next postinstall",
     "seed-data": "keystone-next --seed-data"
   },
   "eslintConfig": {
