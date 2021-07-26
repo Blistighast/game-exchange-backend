@@ -1,1 +1,1 @@
-web: keystone-next
+web: keystone-next start
