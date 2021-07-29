@@ -1,0 +1,1 @@
+{"ast":null,"code":"const formatter = new Intl.NumberFormat('en-US', {\n  style: 'currency',\n  currency: 'USD'\n});\nexport default function formatMoney(cents) {\n  const dollars = cents / 100;\n  return formatter.format(dollars);\n}","map":null,"metadata":{},"sourceType":"module"}
